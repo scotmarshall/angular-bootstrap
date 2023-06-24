@@ -10,7 +10,7 @@ Before we begin, make sure you have a basic understanding of Angular and have an
 To add Bootstrap to your Angular project, open your terminal or command prompt and navigate to your project's root directory. Then, run the following command to install Bootstrap:
 
 ```shell
-npm install bootstrap bootstrap-icons
+npm install jquery bootstrap bootstrap-icons
 ```
 
 This command will download the Bootstrap packages and its dependencies and save them in your project's `node_modules` directory.
